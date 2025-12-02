@@ -1,0 +1,52 @@
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj
+Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt
+Uu Vv Ww Xx Yy Zz
+0123456789
+0 1 2 3 4 5 6 7 8 9
+! ? . , ; : " ' - — ( )
+# @ & % $ + = / * _
+$5.99 $14.32 $102.58
+2025-12-02
+(1) (2) (3) (4) (5)
+The quick brown fox jumps over the lazy dog.
+Sphinx of black quartz, judge my vow.
+Pack my box with five dozen liquor jugs.
+A wizard's job is to vex chumps quickly in fog.
+My handwriting looks different depending on my mood.
+Sometimes I write fast and sometimes I write slowly.
+The weather in Colorado changes constantly.
+I never know if I'm cold, warm, or both.
+People underestimate how chaotic school really is.
+I like working on creative projects late at night.
+Cats are tiny gremlins with fur and questionable motives.
+AI models should stop hallucinating and behave.
+I write differently when I'm impatient and it's annoying.
+This sentence exists purely so a robot can learn my vibe.
+yes
+no
+maybe
+okay
+lol
+idk
+omg why
+sure
+whatever
+wtf
+did i spell that right?
+Wait no—ignore that word.
+why am I still writing this
+okay NOW it's messy writing time
+faster writing feels more natural
+i don't care if this looks sloppy
+Madeleine Muller
+Maddie
+M
+Muller
+[signature_1]
+[signature_2]
+[signature_3]
+i’m tired of writing but i guess this is fine
+handwriting is weird because it changes constantly
+anyway this should be enough data for training
